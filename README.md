@@ -1,1 +1,1 @@
-# Password generator app
+# Password generator with gui
